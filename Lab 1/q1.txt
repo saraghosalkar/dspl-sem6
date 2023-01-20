@@ -1,0 +1,42 @@
+Experiment No. 1 Task List:
+
+Download data
+Read datasets from
+
+https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Matches+2008-2020.csv
+
+Find the null values in each column
+
+Merge the two datasets
+
+Find the null values in each column again
+
+Check info and shape after merging
+
+Get the columns in the right datatype
+
+Derive an index field and add it to the data set.
+
+Identify the outliers in each column.
+
+What was the count of matches played in each season?
+
+How many runs were scored in each season?
+
+Find the top 10 teams which has won the most number of matches
+
+Find the Top 10 Players With Most Player of Match
+
+Find the Percentage of choosing field after winning the toss
+
+Find the Percentage of choosing to bat first after winning the toss
+
+Find the ratio of Bat to Field count
+
+Find the count of Loss vs Wins vs Ties
+
+Who won the most tosses?
+
+Who has hit the most number of 4's?
+
+Who has hit the most number of 6's?
